@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taufik</h1>
-<h3 align="center">A keen learner embracing the learning curve</h3>
+<h3 align="center">A keen learner </h3>
 
 - 🌱 I’m currently learning **C++, Python**
 
