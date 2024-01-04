@@ -1,3 +1,4 @@
+![Animated Gif](https://github.com/taufikx22/taufikx22/blob/main/gif.mp4)
 <h1 align="center">Hi 👋, I'm Taufik</h1>
 <h3 align="center">A keen learner </h3>
 
