@@ -46,7 +46,10 @@
 
 ---
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<div align= "center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="60%"/>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=taufikx22&icon=0&color=0)](https://visitcount.itsvg.in)
