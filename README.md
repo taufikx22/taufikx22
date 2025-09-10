@@ -42,6 +42,8 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=taufikx22&theme=aura&hide_border=false" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taufikx22&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taufikx22&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
 </div>
 
 ---
